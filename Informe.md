@@ -26,7 +26,7 @@ Así, una imagen grande que contiene Maven y JDK se usa solo para construir la a
 
 Este enfoque evita incluir herramientas innecesarias en la imagen final.
 
-<p align="center"> <img src="images/1.png" width="800px"> </p>
+<p align="center"> <img src="images/1.jpg" width="800px"> </p>
 
 ## **4. Conocimientos previos**
 
